@@ -1,0 +1,211 @@
+#EXTM3U
+#EXTINF:-1,A&E
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/1
+#EXTINF:-1,Animal Planet
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/4
+#EXTINF:-1,CNN Espanol
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/5
+#EXTINF:-1,Canal Caracol
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/6
+#EXTINF:-1,Canal RCN
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/7
+#EXTINF:-1,Canal Uno TV Ecu
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/8
+#EXTINF:-1,Canal de Las estrellas
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/9
+#EXTINF:-1,Cartoon Network
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/10
+#EXTINF:-1,Cinecanal
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/11
+#EXTINF:-1,Cinemax
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/12
+#EXTINF:-1,Discovery Channel
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/13
+#EXTINF:-1,Discovery ID
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/14
+#EXTINF:-1,Discovery Kids
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/15
+#EXTINF:-1,Discovery Turbo
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/16
+#EXTINF:-1,Disney Channel
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/17
+#EXTINF:-1,Disney Jr
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/18
+#EXTINF:-1,ESPN
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/19
+#EXTINF:-1,ESPN 2
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/20
+#EXTINF:-1,ESPN 3
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/21
+#EXTINF:-1,Ecuador TV
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/22
+#EXTINF:-1,Ecuavisa
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/23
+#EXTINF:-1,FOX P ACTION
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/24
+#EXTINF:-1,FOX P MOVIES
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/25
+#EXTINF:-1,FOX P SERIES E
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/26
+#EXTINF:-1,FX Movies
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/27
+#EXTINF:-1,Fox Life
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/29
+#EXTINF:-1,Fox Sports
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/30
+#EXTINF:-1,Fox Sports 1
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/31
+#EXTINF:-1,Fox Sports 2
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/32
+#EXTINF:-1,Fox Sports 3
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/33
+#EXTINF:-1,GamaTV
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/34
+#EXTINF:-1,HBO
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/35
+#EXTINF:-1,HBO Family
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/36
+#EXTINF:-1,HBO Plus
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/37
+#EXTINF:-1,History Channel
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/38
+#EXTINF:-1,Nick Jr
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/40
+#EXTINF:-1,Panamericana TV
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/41
+#EXTINF:-1,RCN Novelas
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/42
+#EXTINF:-1,RTS
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/43
+#EXTINF:-1,Space
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/45
+#EXTINF:-1,TC Television
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/46
+#EXTINF:-1,Teleamazonas
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/48
+#EXTINF:-1,Telemundo
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/50
+#EXTINF:-1,Universal
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/51
+#EXTINF:-1,24 Horas-ext
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/59
+#EXTINF:-1,ATV-ext
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/60
+#EXTINF:-1,AXN-ext
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/61
+#EXTINF:-1,America TV-ext
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/62
+#EXTINF:-1,C9N-ext
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/64
+#EXTINF:-1,CDF PREMIUM-ext
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/66
+#EXTINF:-1,CHV-ext
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/67
+#EXTINF:-1,CNN Chile-ext
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/68
+#EXTINF:-1,Canal Uno-ext
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/71
+#EXTINF:-1,Claro Cinema-ext
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/75
+#EXTINF:-1,Disney XD-ext
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/76
+#EXTINF:-1,E Entertainment-ext
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/77
+#EXTINF:-1,Canal Claro-ext
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/78
+#EXTINF:-1,ESPN 2-ext
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/80
+#EXTINF:-1,ESPN-ext
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/81
+#EXTINF:-1,Esne TV-ext
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/83
+#EXTINF:-1,FX-ext
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/87
+#EXTINF:-1,Fox Sports-ext
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/88
+#EXTINF:-1,France 24-ext
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/89
+#EXTINF:-1,GOL TV-ext
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/90
+#EXTINF:-1,HBO 2-ext
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/92
+#EXTINF:-1,HBO XTREME SD-ext
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/93
+#EXTINF:-1,HBO-ext
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/94
+#EXTINF:-1,Home and Health-ext
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/95
+#EXTINF:-1,MTV-ext
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/100
+#EXTINF:-1,Nat Geo-ext
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/103
+#EXTINF:-1,NatGeo Kids-ext
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/104
+#EXTINF:-1,Nickelodeon-ext
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/105
+#EXTINF:-1,SNT-ext
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/110
+#EXTINF:-1,Senal Colombia-ext
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/111
+#EXTINF:-1,TNT-ext
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/116
+#EXTINF:-1,TVEDUCA-ext
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/121
+#EXTINF:-1,ViaX-ext
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/131
+#EXTINF:-1,Warner-ext
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/132
+#EXTINF:-1,TNT HD
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/6228
+#EXTINF:-1,HBO FAMILY HD
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/6217
+#EXTINF:-1,LAS ESTRELLAS
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/6201
+#EXTINF:-1,TV PERU
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/6234
+#EXTINF:-1,CARACOL HD
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/6235
+#EXTINF:-1,OROMAR HD
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/6236
+#EXTINF:-1,TyC Sports
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/6237
+#EXTINF:-1,DIRECTV SPORTS
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/6238
+#EXTINF:-1,TNT SPORT
+http://172.17.0.2:25461/andreaapfigueroa/aapfigueroa/6231
+#EXTINF:-1,CINELATINO
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/107
+#EXTINF:-1,TOPLATINO
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
+#EXTINF:-1,MUSIC
+https://5b464b69d264e.streamlock.net:/Channels_live/ngrp:telemusica_all/playlist.m3u8
+#EXTINF:-1,RCNNOVELAS
+http://209.91.213.10:8088/play/a020
+#EXTINF:-1,RCN
+http://186.101.216.211:8000/play/a09k
+#EXTINF:-1,Telemax
+https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1,WOWTV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
+#EXTINF:-1,FOXDEPORTES
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/114
+#EXTINF:-1,SONYTEN1
+http://209.145.58.109:25461/omohaktv/App/72
+#EXTINF:-1,SONYTEN2
+http://209.145.58.109:25461/omohaktv/App/73
+#EXTINF:-1,UFC
+http://209.145.58.109:25461/omohaktv/App/80
+#EXTINF:-1,ONTIME1
+http://209.145.58.109:25461/omohaktv/App/166
+#EXTINF:-1,NETFLIXCOMEDY
+http://209.145.58.109:25461/omohaktv/App/148
+#EXTINF:-1,NETFLIXDRAMA
+http://209.145.58.109:25461/omohaktv/App/107
+#EXTINF:-1,NETFLIXHORROR
+http://209.145.58.109:25461/omohaktv/App/122
+#EXTINF:-1,NETFLIXKIDS
+http://209.145.58.109:25461/omohaktv/App/121
+#EXTINF:-1,NETFLIXMOVIE
+http://209.145.58.109:25461/omohaktv/App/105
+#EXTINF:-1,OSNMOVIE
+http://209.145.58.109:25461/omohaktv/App/111
